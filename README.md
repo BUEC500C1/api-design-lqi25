@@ -17,3 +17,10 @@ Created a weather API based on OpenWeatherAPI and implemented three functions:
 
 ## OpenWeather API
 The OpenWeather API supports multiple functions, which can get the current weather conditions, historical weather records, and forecast future weather conditions by city name, latitude and longitude. You need to register at https://openweathermap.org/api and get the API key. The obtained data format is json data, which includes temperature, weather, latitude and longitude, humidity and other information.
+
+## Weather API
+1. Install Requests
+Open terminal and enter the following command：
+'''python
+pip install requests
+'''
