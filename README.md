@@ -29,15 +29,15 @@ pip install requests
 - Enter 1 and enter the city name to get the current weather conditions for the city, including weather, temperature, humidity and wind speed.   
 <p align="center">
 <img src="https://github.com/BUEC500C1/api-design-lqi25/blob/master/img/w2.png"/> 
-</p>   
+</p>      
 - Enter 2 and enter the airport name to get the current weather conditions for that airport.    
 <p align="center">
 <img src="https://github.com/BUEC500C1/api-design-lqi25/blob/master/img/w3.png"/> 
-</p>   
+</p>      
 - Enter 3 and enter the name of the airport to get the weather conditions of the airport for the next 5 days at 3 hour intervals.   
 <p align="center">
 <img src="https://github.com/BUEC500C1/api-design-lqi25/blob/master/img/w4.png"/> 
-</p>   
+</p>      
 - Enter 4 to leave weather API.   
 <p align="center">
 <img src="https://github.com/BUEC500C1/api-design-lqi25/blob/master/img/w5.png"/> 
