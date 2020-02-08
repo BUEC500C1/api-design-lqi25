@@ -19,7 +19,7 @@ def get_city_weather(city):
     print()
 
 def forecast_airport_weather(airport):
-    with open ('C:\\Users\\18367\\Desktop\\airports.csv') as airportinfo:
+    with open ('airports.csv') as airportinfo:
         airportlist = csv.DictReader(airportinfo)
         for row in airportlist:
             if row['name']== airport:
@@ -40,7 +40,7 @@ def forecast_airport_weather(airport):
                     print(ttime," weather:",wweather," temperature:",ttemp)
                 
 def get_airport_weather(airport):
-    with open ('C:\\Users\\18367\\Desktop\\airports.csv') as airportinfo:
+    with open ('airports.csv') as airportinfo:
         airportlist = csv.DictReader(airportinfo)
         for row in airportlist:
             if row['name']== airport:
