@@ -20,7 +20,7 @@ The OpenWeather API supports multiple functions, which can get the current weath
 
 ## Weather API
 1. Install Requests
-Open terminal and enter the following command：
-'''python
+Open terminal and enter the following command：   
+```python
 pip install requests
-'''
+```
