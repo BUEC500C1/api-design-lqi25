@@ -25,7 +25,7 @@ Open terminal and enter the following command：
 pip install requests
 ```
 2. Run weather.py 
-- Select the function you need and enter the corresponding number before the function.
+- Select the function you need and enter the corresponding number before the function.   
 Enter 1 and enter the city name to get the current weather conditions for the city, including weather, temperature, humidity and wind speed.      
 <p align="center">   
 <img src="https://github.com/BUEC500C1/api-design-lqi25/blob/master/img/w2.png"/> 
