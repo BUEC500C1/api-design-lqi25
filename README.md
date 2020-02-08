@@ -37,7 +37,7 @@ pip install requests
 - Enter 3 and enter the name of the airport to get the weather conditions of the airport for the next 5 days at 3 hour intervals.   
 <p align="center">
 <img src="https://github.com/BUEC500C1/api-design-lqi25/blob/master/img/w4.png"/> 
-</p>      
+</p>         
 - Enter 4 to leave weather API.   
 <p align="center">
 <img src="https://github.com/BUEC500C1/api-design-lqi25/blob/master/img/w5.png"/> 
