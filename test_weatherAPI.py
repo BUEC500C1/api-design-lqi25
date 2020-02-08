@@ -8,6 +8,6 @@ import pytest
 from weather import get_city_weather,forecast_airport_weather,get_airport_weather,current_weather
 
 def test_weather():
-    get_city_weather("Boston")
-    get_airport_weather("Total Rf Heliport")
-    forecast_airport_weather("Total Rf Heliport")
+    assert get_city_weather("Boston")
+    assert get_airport_weather("Total Rf Heliport")
+    assert forecast_airport_weather("Total Rf Heliport")
