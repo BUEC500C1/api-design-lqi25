@@ -5,6 +5,7 @@ Created on Sat Feb  8 13:27:34 2020
 @author: 18367
 """
 import pytest
+import requests
 from weather import get_city_weather,forecast_airport_weather,get_airport_weather,current_weather
 
 def test_weather():
