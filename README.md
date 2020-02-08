@@ -15,3 +15,5 @@ Created a weather API based on OpenWeatherAPI and implemented three functions:
 - I, a city dweller, want to know the current weather conditions in the city where I live.
 - I, an airport worker, want to know the future weather around the airport.
 
+## OpenWeather API
+The OpenWeather API supports multiple functions, which can get the current weather conditions, historical weather records, and forecast future weather conditions by city name, latitude and longitude. You need to register at https://openweathermap.org/api and get the API key. The obtained data format is json data, which includes temperature, weather, latitude and longitude, humidity and other information.
